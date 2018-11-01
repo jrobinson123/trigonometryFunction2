@@ -2,7 +2,7 @@
 A function written in python3 which can take in a horizontal distance and angle of elevation and print out an estimation of the height of an object
 
 Heres a visual representation of the kind of problem this program could solve
-![right triangle graphic](./images/triangleGraphic.png)
+![right triangle graphic](https://github.com/jrobinson123/trigonometryFunction2/blob/master/images/trigonometryGraphic.png)
 
 ### dependencies
 built with python 3.6 using the built in math library
