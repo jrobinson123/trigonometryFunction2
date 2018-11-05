@@ -1,7 +1,8 @@
 # trigonometryFunction2
-A function written in python3 which can take in a horizontal distance and angle of elevation and print out an estimation of the height of an object
 
 Consider when you look at the top of a building, there is the horizontal distnace between you and the building, the height of the building, and the angle of elevation that occurs from your line of sight
+
+The program I wrote is a function which can take in a horizontal distance and angle of elevation, and a users height and print out and estimation of the height of the object you're looking at
 
 Heres a visual representation of this
 ![right triangle graphic](https://github.com/jrobinson123/trigonometryFunction2/blob/master/images/trigonometryGraphic.png)
@@ -20,8 +21,11 @@ Here's a to scale, visual  representation of these variables
 Based on the values of these variables we can solve for height 
 
 height = tan(27) * 75 + 7 
+
 height = (.5095 * 75) + 7
+
 height = 38.2 + 7
+
 height = 45.2
 
 This computer program automates this project by taking in inputs, converting them to correpsonding variables,
