@@ -6,7 +6,11 @@ The program I wrote is a function which can take in a horizontal distance and an
 
 Heres a visual representation of this
 
+
+
 ![right triangle graphic](https://github.com/jrobinson123/trigonometryFunction2/blob/master/images/trigonometryGraphic.png)
+
+
 
 From this graphic you can extract some of the variables in play when given this particular problem. Three key variables are used to solve the height:
 - The angle of elevation: The angle of elevation that occurs between your line of sight and the line of the ground
@@ -17,7 +21,10 @@ Then height can be solved using this equation:
 height = tan(angle of elevation * distance + observer height
 
 Here's a to scale, visual  representation of these variables
-![to scale visual representation] (https://github.com/jrobinson123/trigonometryFunction2/blob/master/images/toScaleVisualRepresentation.png)
+
+
+![to scale visual representation](https://github.com/jrobinson123/trigonometryFunction2/blob/master/images/toScaleVisualRepresentation.png)
+
 
 
 Based on the values of these variables we can solve for height 
