@@ -5,6 +5,7 @@ Consider when you look at the top of a building, there is the horizontal distnac
 The program I wrote is a function which can take in a horizontal distance and angle of elevation, and a users height and print out and estimation of the height of the object you're looking at
 
 Heres a visual representation of this
+
 ![right triangle graphic](https://github.com/jrobinson123/trigonometryFunction2/blob/master/images/trigonometryGraphic.png)
 
 From this graphic you can extract some of the variables in play when given this particular problem. Three key variables are used to solve the height:
