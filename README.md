@@ -23,8 +23,7 @@ height = tan(angle of elevation * distance + observer height
 Here's a to scale, visual  representation of these variables
 
 
-![to scale visual representation](https://github.com/jrobinson123/trigonometryFunction2/blob/master/images/toScaleVisualRepresentation.png)
-
+![to scale visual representation](https://github.com/jrobinson123/trigonometryFunction2/blob/master/images/toScaleVisuaRepresentation.png)
 
 
 Based on the values of these variables we can solve for height 
